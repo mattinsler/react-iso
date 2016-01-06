@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "app-context start"
+  },
+  "dependencies": {
+    "app-context": "0.1.6",
+    "app-context-express": "1.0.0",
+    "morgan": "1.6.1",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-iso": "git+https://github.com/mattinsler/react-iso.git"
+  }
+}
